@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 Second Line
+=======
+edit file test
+>>>>>>> omid
